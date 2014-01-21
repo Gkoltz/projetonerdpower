@@ -21,10 +21,11 @@ Código Fonte da Skynerd
   > Grandiosa cortesia e generosidade por parte de Alexandre Ottoni, Deive Pazos e Guilherme Camillo
 
 
-Nerdrix - A matrix dos nerds
+Nerdrix - A matrix dos nerds (Sugestão)
 ================
 
-O projeto desenvolvido nesse repositório já tem nome e endereço!! www.nerdrix.com.br
+O projeto desenvolvido nesse repositório já tem nome e endereço sugeridos!! www.nerdrix.com.br (já registrado
+para segurarmos o nome!)
 A Nerdrix seguirá as seguintes etapas, que podem sofrer
 alterações de acordo com as necessidades observadas ao longo do desenvolvimento do projeto.
 
